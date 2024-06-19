@@ -13,9 +13,8 @@ Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.co
 # Surface
 path1 = "https://github.com/luizleal1974/GIF-Plot/raw/main/Files/Surface.R"
 path2 = "https://github.com/luizleal1974/GIF-Plot/raw/main/Files/Surface.py"
-p1 = devtools::source_url(path1)
-p2 = reticulate::source_python(path2)
-p1 ; p2
+devtools::source_url(path1)
+reticulate::source_python(path2)
 ```
 
 
