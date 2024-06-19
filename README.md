@@ -1,13 +1,13 @@
 # GIF Plot
 
-Este rep
-
-Códigos de programação em R e Python para salvar gráficos em formato GIF.
-
-GIF significa Graphics Interchange Format (Formato de Intercâmbio Gráfico). O GIF é um formato de arquivo rasterizado projetado para imagens relativamente básicas que aparecem principalmente na Internet. Cada arquivo pode suportar até 8 bits por pixel e conter 256 cores indexadas. Os arquivos GIF também permitem combinar imagens ou quadros, criando animações básicas.
+<p align="justify">GIF significa <i>Graphics Interchange Format</i> (Formato de Intercâmbio Gráfico). Este repositório fornece códigos de programação em R e Python para salvar gráficos em formato GIF.</p>
 
 
+</br>
+  
+</br>
 
+# Surface
 
 <table width="100%">
 <tr>
@@ -16,4 +16,4 @@ GIF significa Graphics Interchange Format (Formato de Intercâmbio Gráfico). O 
 </tr>
 </table>
 
-
+<div align="center">Figura 1. Gráfico 3D: (a) R; (b) Python.</div>
