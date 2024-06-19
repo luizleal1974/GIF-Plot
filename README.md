@@ -8,9 +8,12 @@ GIF significa Graphics Interchange Format (Formato de Intercâmbio Gráfico). O 
 
 
 
+
 <table width="100%">
 <tr>
-<td>a</td>
-<td>b</td>
+<td><p align="center"><img src="/Files/Surface_R.gif" alt="Drawing"/></p></br>(a)</td>
+<td><p align="center"><img src="/Files/Surface_Python.gif" alt="Drawing"/></p></br>(b)</td>
 </tr>
 </table>
+
+
