@@ -10,8 +10,8 @@ Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.co
 
 <table width="100%">
 <tr>
-<td><p align="center"><img src="/Files/Surface_R.gif" height="300" width="300" alt="Drawing"/>(a)</p><p align="center">(a)</p></td>
-<td><p align="center"><img src="/Files/Surface_Python.gif" height="300" width="450" alt="Drawing"/></p><p align="center">(b)</p></td>
+<td><p align="center"><img src="/Files/Surface_R.gif" height="300" width="300" alt="Drawing"/>(a)</p></td>
+<td><p align="center"><img src="/Files/Surface_Python.gif" height="300" width="450" alt="Drawing"/>(b)</p></td>
 </tr>
 </table>
 
