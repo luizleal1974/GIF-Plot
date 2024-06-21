@@ -29,6 +29,3 @@ def animate(i):
 chdir('F:') # set working directory
 ani = FuncAnimation(fig, animate, frames = 100)    
 ani.save("Surface_Python.gif", dpi = 200, writer = PillowWriter(fps = 25))
-
-
-
