@@ -25,5 +25,5 @@ py_install("pillow")
 
 # Line Chart
 
-<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.R'><code>Surface.R</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.py'><code>Surface.py</code></a> contém sugestões de códigos para a construção de gráficos 3D.</p>
+<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a>, <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> e  <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a> contém sugestões de códigos para a construção de gráficos de linha.</p>
 
