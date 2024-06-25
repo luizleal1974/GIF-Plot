@@ -5,12 +5,12 @@ from matplotlib.animation import FuncAnimation, PillowWriter
 from seaborn import *
 
 # Dados
-path = ('https://github.com/luizleal1974/GIF-Plot/blob/main/Files/airquality.xlsx')
-dados = read_excel("airquality.xlsx")
+path = "https://github.com/luizleal1974/GIF-Plot/raw/main/Files/airquality.xlsx"
+dados = read_excel(path)
 
 # Grafico
 fig, ax = plt.subplots()
-set(style = "darkgrid", rc = {"lines.linewidth": 1}, palette = "pastel")
+set(style = "darkgrid", rc = {"lines.linewidth": 4}, palette = "pastel")
 plt.subplots_adjust(left = 0.11, right = 0.76, top = 0.9, bottom = 0.2)
 
 def animate(i):
