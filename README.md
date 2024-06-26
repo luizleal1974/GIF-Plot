@@ -36,5 +36,7 @@ py_install("pillow")
 
 <p align="center">a</p>
 
-[Video_title](Files/line_chart_R.mp4)
+<video src="/Files/line_chart_R.mp4" controls="controls" style="max-width: 730px;"></video>
+
+
 
