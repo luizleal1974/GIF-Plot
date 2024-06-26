@@ -35,6 +35,7 @@ animate(plot = p,
         end_pause = 60,
         res = 100
         )
+setwd("F:") # set working directory
 anim_save("Line_Chart_R.gif")
 
 # Save MP4 plot
@@ -43,4 +44,5 @@ animate(plot = p,
         width = 800,
         renderer = av_renderer()
         )
+setwd("F:") # set working directory
 anim_save(filename = "Line_Chart_R.mp4")
