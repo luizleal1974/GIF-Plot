@@ -32,9 +32,9 @@ py_install("pillow")
 <div align="center">Figura 2. Gráfico de linhas: (a) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a>; (b) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a>; (c) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a>.</div>
 
 
-<p align="center"><img src="/Files/line_chart_R.mp4" alt="Drawing"/></p>
-
-<p align="center">[![](/Files/line_chart_R.mp4)](/Files/line_chart_R.mp4)</p>
 
 
+<p align="center">a</p>
+
+[Video_title](Files/line_chart_R.mp4)
 
