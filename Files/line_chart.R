@@ -26,6 +26,7 @@ theme(plot.title   = element_text(color = "black", size = 20, angle = 0 , hjust 
 ) +
 transition_reveal(Dia)
 
+# Set plot
 animate(plot = p,
         height = 500,
         width = 800,
@@ -34,4 +35,6 @@ animate(plot = p,
         end_pause = 60,
         res = 100
         )
+
+# Save plot
 anim_save("Line_Chart_R.gif")
