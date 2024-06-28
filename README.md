@@ -25,7 +25,9 @@ py_install("pillow")
 
 # 3. Gráfico de linhas
 
-<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> (pacote <code><b>gganimate</b></code>), <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a> contém sugestões de códigos para a construção de gráficos de linha. No que tange a linguagem de programação R, há um vídeo tutorial disponível no <a target='_blank' rel='noopener noreferrer' href='https://www.youtube.com/watch?v=CUZJTCrZiys&list=PL9QQDIVZa2ab9B2rieO41mLV2xFnsA70e&index=3&t=37s'><code><b>YouTube</b></code></a> que apresenta um modo alternativo para salvar gráficos em formato GIF.</p>
+<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> (pacote <code><b>gganimate</b></code>), <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a> contém sugestões de códigos para a construção de gráficos de linha.</p>
+  
+<p align="justify">No que tange a linguagem de programação R, há um vídeo tutorial disponível no <a target='_blank' rel='noopener noreferrer' href='https://www.youtube.com/watch?v=CUZJTCrZiys&list=PL9QQDIVZa2ab9B2rieO41mLV2xFnsA70e&index=3&t=37s'><code><b>YouTube</b></code></a> que apresenta um modo alternativo para salvar gráficos em formato GIF.</p>
 
 <p align="center"><img src="/Files/line_chart.gif" alt="Drawing"/></p>
 
@@ -37,11 +39,17 @@ py_install("pillow")
 
 # 4. Scatter plot 3D
 
+<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.R'><code>scatter_plot_3D.R</code></a> (pacote <code><b>gifski</b></code>) e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.py'><code>scatter_plot_3D.py</code></a> contém sugestões de códigos para a construção de scatter plot 3D.</p>
 
+<p align="center"><img src="/Files/scatter_plot_3D.gif" alt="Drawing"/></p>
+
+<div align="center">Figura 3. Scatter plot 3D: (a) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.R'><code>scatter_plot_3D.R</code></a>; (b) e (c) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.py'><code>scatter_plot_3D.py</code></a>.</div>
 
 </br>
 
 # 5. Vídeo (MP4)
+
+Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> contém códigos de programação para salvar gráficos em formato de vídeo com extensão MP4.
 
 <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_R.mp4'><b>line_chart_R.mp4</b></a>
 
