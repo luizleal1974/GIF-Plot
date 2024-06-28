@@ -49,9 +49,12 @@ py_install("pillow")
 
 # 5. Vídeo (MP4)
 
-Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> contém códigos de programação para salvar gráficos em formato de vídeo com extensão MP4.
+Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> contém códigos de programação para salvar gráficos em formato de vídeo com extensão MP4. Para fazer download dos vídeos clique em <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Video_MP4.zip'><code><b>Video_MP4.zip</b></code></a>.
 
-<a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_R.mp4'><b>line_chart_R.mp4</b></a>
+
+<p align="center"><img src="/Files/Video_MP4.gif" alt="Drawing"/></p>
+
+<div align="center">Figura 4. Vídeo (MP4): <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Video_MP4.zip'><code><b>Video_MP4.zip</b></code></a>.</div>
 
 </br>
 
