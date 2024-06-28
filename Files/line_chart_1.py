@@ -1,7 +1,7 @@
 from os import chdir
 from pandas import read_excel
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation, PillowWriter
+from matplotlib.animation import FuncAnimation, PillowWriter, FFMpegWriter
 from seaborn import *
 
 # Dados
@@ -25,8 +25,14 @@ def animate(i):
     plt.title('Airquality', fontsize = 16)
     plt.legend(bbox_to_anchor = (1.05, 1), loc = 2, borderaxespad = 0.0, fontsize = '10').set_title("Mes")
 
+# Set working directory
+chdir("F:")
 
-# Save plot
-chdir("F:") # set working directory
-ani = FuncAnimation(fig, animate, frames = len(dados), repeat = True, repeat_delay = 0)    
-ani.save("Line_Chart_Python_1.gif", dpi = 300, writer = PillowWriter(fps = 5))
+# Save GIF plot
+ani_1 = FuncAnimation(fig, animate, frames = len(dados), repeat = True, repeat_delay = 0)    
+ani_1.save("Line_Chart_Python_1.gif", dpi = 300, writer = PillowWriter(fps = 5))
+
+# Save MP4 plot
+ani_2 = FuncAnimation(fig, animate)
+FFwriter = FFMpegWriter(fps = 10)
+ani_2.save('Line_Chart_Python_1.mp4', writer = FFwriter)
