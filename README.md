@@ -12,6 +12,10 @@ py_install("pillow")
 
 </br>
 
+
+
+
+
 # 2. Superfície
 
 <p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.R'><code>Surface.R</code></a> (pacote <code><b>animation</b></code>) e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.py'><code>Surface.py</code></a> contém sugestões de códigos para a construção de gráficos de superfície.</p>
@@ -20,8 +24,11 @@ py_install("pillow")
 
 <div align="center">Figura 1. Gráfico 3D: (a) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.R'><code>Surface.R</code></a>; (b) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Surface.py'><code>Surface.py</code></a>.</div>
 
-
 </br>
+
+
+
+
 
 # 3. Gráfico de linhas
 
@@ -33,11 +40,14 @@ py_install("pillow")
 
 <div align="center">Figura 2. Gráfico de linhas: (a) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a>; (b) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a>; (c) <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a>.</div>
 
-
-
 </br>
 
+
+
+
 # 4. Scatter plot 3D
+
+### 4.1 Introdução
 
 <p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.R'><code>scatter_plot_3D.R</code></a> (pacote <code><b>gifski</b></code>) e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D.py'><code>scatter_plot_3D.py</code></a> contém sugestões de códigos para a construção de scatter plot 3D.</p>
 
@@ -47,6 +57,19 @@ py_install("pillow")
 
 </br>
 
+### 4.2 Python
+
+<p align="justify">No <a target='_blank' rel='noopener noreferrer' href='https://colab.research.google.com/drive/1O-b1gdbIZh6J43sdvwWSFowY9KSj2gyu?usp=sharing'><code>Google Colab</code></a> há um código de programação em Pyhton para construção da figura 4. Para informações complementares acesse <a target='_blank' rel='noopener noreferrer' href='https://matplotlib.org/stable/api/toolkits/mplot3d/view_angles.html'><code>mplot3d View Angles</code>.</p>
+
+<p align="center"><img src="/Files/scatter_plot_3D_Python_3.gif" alt="Drawing"/></p>
+
+<div align="center">Figura 4. Scatter plot 3D no Python (código <code>ax.view_init(roll = i)</code>).</div>
+
+</br>
+
+
+
+
 # 5. Vídeo (MP4)
 
 Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> contém códigos de programação para salvar gráficos em formato de vídeo com extensão MP4. Para fazer download dos vídeos clique em <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Video_MP4.zip'><code><b>Video_MP4.zip</b></code></a>.
@@ -54,7 +77,7 @@ Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.co
 
 <p align="center"><img src="/Files/Video_MP4.gif" alt="Drawing"/></p>
 
-<div align="center">Figura 4. Vídeo (MP4): <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Video_MP4.zip'><code><b>Video_MP4.zip</b></code></a>.</div>
+<div align="center">Figura 5. Vídeo (MP4): <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/Video_MP4.zip'><code><b>Video_MP4.zip</b></code></a>.</div>
 
 </br>
 
