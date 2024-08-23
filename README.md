@@ -63,7 +63,7 @@ py_install("pillow")
 
 <p align="center"><img src="/Files/scatter_plot_3D_Python_3.gif" alt="Drawing"/></p>
 
-<div align="center">Figura 4. Scatter plot 3D no Python: código <code>ax.view_init(roll = i)</code>.</div>
+<div align="center">Figura 4. Scatter plot 3D no Python: <code>ax.view_init(roll = i)</code>.</div>
 
 </br>
 
