@@ -1,8 +1,6 @@
 # 1. GIF Plot
 
-<p align="justify">GIF significa <i>Graphics Interchange Format</i> (Formato de Intercâmbio Gráfico). Este repositório fornece códigos de programação em R e Python para salvar gráficos em formato GIF.</p>
-
-<p align="justify"><b>É importante destacar que no Python faz-se necessário instalar o módulo  PIL (Python Imaging Library): <code>pip install pillow</code>.</b></p>
+<p align="justify">GIF significa <i>Graphics Interchange Format</i> (Formato de Intercâmbio Gráfico). Este repositório fornece códigos de programação em R e Python para salvar gráficos em formato GIF. <b>É importante destacar que no Python faz-se necessário instalar o módulo  PIL (Python Imaging Library): <code>pip install pillow</code></b>.</p>
 
 ```{r}
 # Run this code in R prompt
