@@ -32,9 +32,7 @@ py_install("pillow")
 
 # 3. Gráfico de linhas
 
-<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> (pacote <code><b>gganimate</b></code>), <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a> contém sugestões de códigos para a construção de gráficos de linha.</p>
-  
-<p align="justify">No que tange a linguagem de programação R, há um vídeo tutorial disponível no <a target='_blank' rel='noopener noreferrer' href='https://www.youtube.com/watch?v=CUZJTCrZiys&list=PL9QQDIVZa2ab9B2rieO41mLV2xFnsA70e&index=3&t=37s'><code><b>YouTube</b></code></a> que apresenta um modo alternativo para salvar gráficos em formato GIF.</p>
+<p align="justify">Os arquivos <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart.R'><code>line_chart.R</code></a> (pacote <code><b>gganimate</b></code>), <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_1.py'><code>line_chart_1.py</code></a> e <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/line_chart_2.py'><code>line_chart_2.py</code></a> contém sugestões de códigos para a construção de gráficos de linha. No que tange a linguagem de programação R, há um vídeo tutorial disponível no <a target='_blank' rel='noopener noreferrer' href='https://www.youtube.com/watch?v=CUZJTCrZiys&list=PL9QQDIVZa2ab9B2rieO41mLV2xFnsA70e&index=3&t=37s'><code><b>YouTube</b></code></a> que apresenta um modo alternativo para salvar gráficos em formato GIF.</p>
 
 <p align="center"><img src="/Files/line_chart.gif" alt="Drawing"/></p>
 
