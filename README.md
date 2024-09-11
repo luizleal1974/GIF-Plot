@@ -55,7 +55,7 @@ py_install("pillow")
 
 ### 4.2 Python
 
-<p align="justify">No <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D_Python_3.ipynb'><code>Jupyter Notebook</code></a> há o código de programação em Pyhton <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D_Python_3.py'><code>scatter_plot_3D_Python_3.py</code></a> para construção da figura 4. Para informações complementares acesse <a target='_blank' rel='noopener noreferrer' href='https://matplotlib.org/stable/api/toolkits/mplot3d/view_angles.html'><code>mplot3d View Angles</code>.</p>
+<p align="justify">O <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D_Python_3.ipynb'><code>Jupyter Notebook</code></a> contém o código de programação em Pyhton <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/GIF-Plot/blob/main/Files/scatter_plot_3D_Python_3.py'><code>scatter_plot_3D_Python_3.py</code></a> para construção da figura 4. Para informações complementares acesse <a target='_blank' rel='noopener noreferrer' href='https://matplotlib.org/stable/api/toolkits/mplot3d/view_angles.html'><code>mplot3d View Angles</code>.</p>
 
 <p align="center"><img src="/Files/scatter_plot_3D_Python_3.gif" alt="Drawing"/></p>
 
